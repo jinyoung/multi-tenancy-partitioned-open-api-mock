@@ -45,6 +45,6 @@ To record the requests properly, you must enter the public ip or domain name for
 
 references:
 
+- https://www.jvt.me/posts/2022/03/04/openapi-local-prism/
 - https://www.baeldung.com/spring-rest-openapi-documentation
 - https://wiremock.org/docs/standalone/docker/
-- 
