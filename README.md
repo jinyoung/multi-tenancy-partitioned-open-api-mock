@@ -20,7 +20,7 @@ To visit the open api specification portal, head to http://localhost:8080/api-do
 
 
 
-To make a mock server run, we use the Prism framework (internally it uses the WireMock):
+To make a mock server run, we use the Prism framework:
 ```
 npx @stoplight/prism-cli@latest mock openapi.yaml
 ```
